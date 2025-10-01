@@ -24,7 +24,4 @@
 - GridSearchCV helps avoid overfitting
 - Plotly enables interactive exploration
 
-## 📎 To Run
-```bash
-pip install scikit-learn matplotlib plotly pandas
-python iris.py
+
