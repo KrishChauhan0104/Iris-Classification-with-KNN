@@ -27,4 +27,4 @@
 ## 📎 To Run
 ```bash
 pip install scikit-learn matplotlib plotly pandas
-python iris_knn.py
+python iris.py
